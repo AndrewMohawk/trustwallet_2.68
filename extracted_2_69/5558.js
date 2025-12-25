@@ -1,0 +1,3 @@
+try{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{},n=new e.Error().stack;n&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[n]="d97ea718-f071-40ce-9c23-e958cc2b58c4",e._sentryDebugIdIdentifier="sentry-dbid-d97ea718-f071-40ce-9c23-e958cc2b58c4")}catch{}{let e=typeof window<"u"?window:typeof global<"u"?global:typeof globalThis<"u"?globalThis:typeof self<"u"?self:{};e.SENTRY_RELEASE={id:"2.67.0"}}(self.webpackChunkbrowser_extension_wallet=self.webpackChunkbrowser_extension_wallet||[]).push([[5558],{75558:(e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}})}]);
+
+//# sourceMappingURL=5558.js.map
